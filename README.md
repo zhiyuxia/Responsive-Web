@@ -1,7 +1,8 @@
-预览地址：https://zhiyuxia.github.io/Responsive-Web/build-prod/index.html#
+# 预览地址：https://zhiyuxia.github.io/Responsive-Web/build-prod/index.html#
 
-Build Setup
+## Build Setup
 
+```
 # install dependencies
 yarn install
 
@@ -10,3 +11,4 @@ yarn run webpack:serve-development
 
 # build for production with minification
 yarn run webpack:build-production
+```
